@@ -1,0 +1,116 @@
+.clearSky{
+    background: linear-gradient(rgb(255, 255, 255), #FFFAED);
+}
+
+.mainlyClear{
+     background: linear-gradient(rgb(255, 255, 255), #E9E3D5);
+}
+
+.partlyCloudy{
+     background: linear-gradient(rgb(255, 255, 255), #E7E4DF);
+}
+
+.overcast{
+     background: linear-gradient(rgb(255, 255, 255), #D0D0D0);
+}
+
+.fog{
+     background: linear-gradient(rgb(255, 255, 255), #E4E4E4);
+}
+
+.depositingRimeFog{
+     background: linear-gradient(rgb(255, 255, 255), #BECAD6);
+}
+
+.drizzleLight{
+     background: linear-gradient(rgb(255, 255, 255), #D1E9FF);
+}
+
+.drizzleModerate{
+     background: linear-gradient(rgb(255, 255, 255), #63B4FF);
+}
+
+.drizzleIntensity{
+     background: linear-gradient(rgb(255, 255, 255), #0085FF);
+}
+
+.freezingDrizzle{
+     background: linear-gradient(rgb(255, 255, 255), #79CFFF);
+}
+
+.freezingDrizzleDenseIntensity{
+     background: linear-gradient(rgb(255, 255, 255), #3DA2FF);
+}
+
+.rainSlight{
+     background: linear-gradient(rgb(255, 255, 255), #3DA2FF);
+}
+
+.rainModerate{
+     background: linear-gradient(rgb(255, 255, 255), #2874BA);
+}
+
+.rainHeavyIntensity{
+     background: linear-gradient(rgb(255, 255, 255), #235481);
+}
+
+.freezingRainLight{
+     background: linear-gradient(rgb(255, 255, 255), #3DB9FF);
+}
+
+.freezingRainHeavyIntensity{
+     background: linear-gradient(rgb(255, 255, 255), #3094CC);
+}
+
+.snowFallSlight{
+     background: linear-gradient(rgb(255, 255, 255), #94E5FF);
+}
+
+.snowFallModerate{
+     background: linear-gradient(rgb(255, 255, 255), #7EC5DC);
+}
+
+.snowFallHeavyIntensity{
+     background: linear-gradient(rgb(255, 255, 255), #4E8495);
+}
+
+.snowGrains{
+     background: linear-gradient(rgb(255, 255, 255), #26A4BF);
+}
+
+.rainShowersSlight{
+     background: linear-gradient(rgb(255, 255, 255), #73A3D0);
+}
+
+.rainShowersModerate{
+     background: linear-gradient(rgb(255, 255, 255), #577897);
+}
+
+.rainShowersViolent{
+     background: linear-gradient(rgb(255, 255, 255), #2E465B);
+}
+
+.snowShowersSlight{
+     background: linear-gradient(rgb(255, 255, 255), #3DD0FF);
+}
+
+.snowShowersViolent{
+     background: linear-gradient(rgb(255, 255, 255), #50A7CC);
+}
+
+.thunderstormSlight{
+     background: linear-gradient(rgb(255, 255, 255), #989365);
+}
+
+.thunderstormWithSlightHail{
+     background: linear-gradient(rgb(255, 255, 255), #027A95);
+}
+
+.thunderstormWithHeavyHail{
+     background: linear-gradient(rgb(255, 255, 255), #0D4B54);
+}
+
+.icon{
+     width: "100%";
+     filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+}
